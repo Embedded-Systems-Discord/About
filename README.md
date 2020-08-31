@@ -5,6 +5,7 @@ This GitHub organization is where all the community projects from the Internet O
 #### Please keep in mind we want to create a fun and challenging project for people to contribute to so please follow these guidelines when submitting ideas for new projects:
 1. Projects must be fun and engaging for the community
 2. Projects must be challenging enough so it is not completed too fast by the community
+3. Submit projects in #project-ideas in the discord server
 
 
 # Creating New Branches

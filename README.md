@@ -9,6 +9,7 @@ This GitHub organization is where all the community projects from the Internet O
 
 
 # Creating New Branches
+When creating new branches please keep naming appropriate and use good commenting practices
 
 
 # Discord Server

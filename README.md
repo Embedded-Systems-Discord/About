@@ -1,5 +1,14 @@
 # About
-This GitHub organization is where all the community projects from the Internet Of Things discord server live. The projects are voted on by the community and the project that get the most votes gets a repo created. Anyone can create a branch of the project and make changes. They can then submit a pull request to add their changes to the main branch. When a project is created a set of goals will be created for the project once the goals are met the project is finished and we will vote on a new project to start. Once a project is finnished it will stay open for the community to continue to improve if they wish.
+This GitHub organization is where all the community projects from the Internet Of Things discord server live. The project that is voted on by the community will get a repo created. Anyone can create a branch of the project and make changes. They can then submit a pull request to add their changes to the main branch. When a project is selected a set of goals will be created for the project. Once the goals are met the project is finished and we will vote on a new project to start. Once a project is finished it will stay open for the community to continue to improve if they wish.
+
+# Project Ideas
+#### Please keep in mind we want to create a fun and challenging project for people to contribute to so please follow these guidelines when submitting ideas for new projects:
+1. Projects must be fun and engaging for the community
+2. Projects must be challenging enough so it is not completed too fast by the community
+
+
+# Creating New Branches
+
 
 # Discord Server
-https://discord.gg/KGtvTYx
+### https://discord.gg/KGtvTYx

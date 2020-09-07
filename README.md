@@ -8,8 +8,8 @@ This GitHub organization is where all the community projects from the Internet O
 3. Submit projects in #project-ideas in the discord server
 
 
-# Creating New Branches
-When creating new branches please keep naming appropriate and use good commenting practices
+# Contributing To Projects
+Start by forking the project. You can then make changes to your repo and as soon as you are done you can make a pull-request. Your pull-request will be reviewed and if aproved your fork will merge with the project.
 
 
 # Discord Server
